@@ -1,5 +1,5 @@
-# MedInfo Desk — Ankura AI Strategy & Governance Assessment
-**Candidate:** Aniya Thangamuthu - R105080 Summer Internship 2027 Digital AI Advisory (Graduate programme conversion 2028)
+# MedInfo Desk — Ankura R105080 Summer Internship 2027 Digital AI Advisory Assessment
+**Candidate:** Aniya Thangamuthu
 **Live Prototype:** [https://thinking-into-slides.lovable.app/](https://thinking-into-slides.lovable.app/)  
 **Access:** Public web app (no login, credentials, or installation required)
 
